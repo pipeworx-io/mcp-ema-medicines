@@ -2,7 +2,7 @@
 
 European Medicines Agency medicines register — every medicine authorised for the EU market through the centralised procedure, plus the committee opinions still awaiting a European Commission decision — the EMA's herbal-medicine inventory (plant/botanical substances the Committee on Herbal Medicinal Products (HMPC) has assessed, with links to each herb's EU herbal monograph and assessment-report PDFs) — and seven sibling XLSX reports from the same download-medicine-data page: shortages, direct healthcare professional communications (DHPC), referrals, periodic safety update single assessments (PSUSA), orphan designations, paediatric investigation plans, and post-authorisation procedures.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1576+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1663+ live data sources.
 
 ## Tools
 
@@ -115,7 +115,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1576+ data sources. The
+Both URLs reach the same gateway and the same 1663+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
