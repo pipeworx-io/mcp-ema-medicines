@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ema-medicines",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "EMA Medicines MCP — the European Medicines Agency's public medicines register.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-adf203992f1125c7cd347dd551240d5e32754e499f24a8b705e6b9755669a46f",
-    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
+    "sourceHash": "v1-5ecd7463cd84dc07f1b3a183fe431abb84a2fa83c567f21e207bee5ac9b3f001",
+    "sourceCommit": "5749f83c0ea115fab4c0c0ef04b66b05f2507d67"
   }
 }
