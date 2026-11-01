@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ema-medicines",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "EMA Medicines MCP — the European Medicines Agency's public medicines register.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ema-medicines",
     "gatewaySlug": "ema-medicines",
-    "sourceHash": "v1-702cf89909586a45dbc6243f02e641687eb04c3960476c658289266c0a6a256e",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-0a21324c00bc57c7e117b790d7a64617e692deb63337c80a192722c95ffbebcf",
+    "sourceCommit": "e707a4bb6209f432984c0a83bf64b3138130db89"
   }
 }
